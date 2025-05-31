@@ -16,20 +16,20 @@ que enfrentarse a mounstruos subterraneos para rescatar a su gato: #
 
 ---
 
-## Tabla de evaluaciÃ³n del equipo.
+## Tabla de evaluacion del equipo.
 
-| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
+| Nombre | Colaboracion | Comunicacion | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
 | Header | Title | - | - |
 | Paragraph | Text |  - | - |
 
 ---
 
-## ðŸŽ¯ Objetivos del sprint
+## Objetivos del sprint
 
-- [ ] Objetivo 1 (ej. Implementar movimiento del personaje)
-- [ ] Objetivo 2
-- [ ] Objetivo 3
+- [ ] Objetivo 1: Crear sprites para la protagonista
+- [ ] Objetivo 2: Crear codigo para el movimiento de la protagonista 
+- [ ] Objetivo 3:
 
 ---
 
@@ -39,7 +39,7 @@ Enlace al video. Breve resumen de contenido del video. Â¿QuÃ© se muestra? Â
 
 ---
 
-## âœ… Avances tÃ©cnicos
+## Avances tecnicos
 
 - [x] [DescripciÃ³n de lo que sÃ­ se logrÃ³]
 - [ ] Progreso en arte, sonido, interfaz, niveles.
@@ -48,33 +48,35 @@ Enlace al video. Breve resumen de contenido del video. Â¿QuÃ© se muestra? Â
 
 ---
 
-## ðŸž Problemas o bloqueos
+## Problemas o bloqueos
 
-- [DescripciÃ³n breve del problema]
-- Â¿QuÃ© se hizo para resolverlo?
-- Â¿QuÃ© se necesita? (ej. asesorÃ­a, mÃ¡s tiempo, recursos)
-
----
-
-## ðŸ”„ Cambios respecto al plan original
-
-- [DescripciÃ³n de cualquier cambio importante en mecÃ¡nicas, arte, alcance, etc.]
+- El problema principal es que no definimos aun el estilo grafico, por consecuencia aun no tenemos sprites, tampoco tenemos avances con la interfaz en el motor de unity
+- ¿Que se hizo para resolverlo? aun no lo resolvemos
+- ¿Que se necesita? necesitamos mas tiempo en equipo para tomar desiciones
 
 ---
 
-## ðŸ§ª Pruebas o avances tÃ©cnicos
+## Cambios respecto al plan original
 
-- [Explicar si hubo pruebas de juego o iteraciones de mecÃ¡nicas]
+- Ninguno, salvo la trama en la historia se a mejorado
+
+---
+
+## Pruebas o avances tecnicos
+
+Aun no tenemos avances
+
+- [Explicar si hubo pruebas de juego o iteraciones de mecÃ¡nicas]  
 - [Incluye gifs, capturas o links si aplica]
 
 ---
 
-## ðŸ—“ï¸ PrÃ³ximos pasos
+## Proximos pasos
 
 [Lista breve de tarea por hacer o retos identificados.]: #
 
-- [ ] Meta 1
-- [ ] Meta 2
+- [ ] Meta 1 Realisar diseño de personajes
+- [ ] Meta 2 Realizar hojas de giro
 - [ ] Meta 3
 
 ---
