@@ -3,7 +3,7 @@
 **Nombre del equipo:** 
 Xolotl Core
 **Integrantes:**  
-- Fredy Andres Cruz Hernandez
+- Fredy Andres Cruz Hernandezff
 - Maria Jose Romero Salazar 
 - Nombre 3  
 - ...  
