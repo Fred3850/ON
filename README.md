@@ -4,7 +4,7 @@
 Xolotl Core
 **Integrantes:**  
 - Fredy Andres Cruz Hernandez
-- Nombre 2  
+- Maria Jose Romero Salazar 
 - Nombre 3  
 - ...  
 
