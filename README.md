@@ -77,11 +77,11 @@ Aun no tenemos avances
 
 - [ ] Meta 1 Realisar diseño de personajes
 - [ ] Meta 2 Realizar hojas de giro
-- [ ] Meta 3
+- [ ] Meta 3 Realizar sprites 
 
 ---
 
-## ðŸ”— Enlaces relevantes
+## Enlaces relevantes
 
 - Repositorio en GitHub: [enlace]  
 - Documento de diseÃ±o (GDD): [enlace]  
