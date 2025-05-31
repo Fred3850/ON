@@ -1,16 +1,17 @@
 # Reporte de Avance - Desarrollo de Videojuego
 
-**Nombre del equipo:** [Nombre del equipo]  
+**Nombre del equipo:** 
+Xolotl Core
 **Integrantes:**  
 - Fredy Andres Cruz Hernandez
 - Nombre 2  
 - Nombre 3  
 - ...  
 
-**Nombre del videojuego (tentativo):** [Nombre del juego]: #  
-**Fecha de entrega del reporte:** [dd/mm/aaaa]: #  
-**Resumen:** [Breve descripciÃ³n (1 - 3 lÃ­neas) del videojuego: gÃ©nero, concepto principal y estilo
-de juego.]: #
+**Nombre del videojuego (tentativo):** ON: #  
+**Fecha de entrega del reporte:** 30/05/2025: #  
+**Resumen:** ON es un juego de plataforma 2D con tematica apocaliptica. Su protagonista se llama Eva y tendra 
+que enfrentarse a mounstruos subterraneos para rescatar a su gato: #
 
 
 ---
