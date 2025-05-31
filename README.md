@@ -74,6 +74,7 @@ Nivel 4 - Suburbios y casa de Eva
 *Mounstruos 
 
 6. Plan del proyecto 
+[Copia de Diagrama de GANTT - ON  - Diagrama .pdf](https://github.com/user-attachments/files/20535103/Copia.de.Diagrama.de.GANTT.-.ON.-.Diagrama.pdf)
 
 7. BibliografÃ­a 
 
