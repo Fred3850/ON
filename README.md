@@ -1,6 +1,8 @@
 Nombre de tu juego 
 
-ON Desarrolladores: 
+ON 
+
+Desarrolladores: 
 
 *Fredy Andres Cruz Hernandez 
 
@@ -42,11 +44,20 @@ Eva se encuentra en su casa como cuarquier día pero recibe un llamado del gobiu
 
 La jugabilidad es similar a otros videojuegos de plataforma, los controles son sencillos para que cualquier persona pueda jugar. se jugara completamente con teclado. 
 
-Controles: ← - Caminar hacia atras → - Caminar hacia enfrente ↓ - Agacharse C - Recoger item Z - Disparar X - Lanzar granada  
+Controles:
+← - Caminar hacia atras 
+→ - Caminar hacia enfrente 
+↓ - Agacharse 
+C - Recoger item
+Z - Disparar 
+X - Lanzar granada  
 
 3. Mundo del juego 
 
-Nivel 1 - Suburbios Nivel 2 - Centro (parque) Nivel 3 - Entrada a la ciudad (Puente) Nivel 4 - Suburbios y casa de Eva  
+Nivel 1 - Suburbios 
+Nivel 2 - Centro (parque) 
+Nivel 3 - Entrada a la ciudad (Puente) 
+Nivel 4 - Suburbios y casa de Eva  
 
 4. Mecanicas del Juego 
 
@@ -54,7 +65,13 @@ Nivel 1 - Suburbios Nivel 2 - Centro (parque) Nivel 3 - Entrada a la ciudad (Pue
 
 5. Personajes 
 
-*Eva *Jamon *Gefe 1 *Gefe 2 *Gefe 3 *Jamon forma de Mounstruo 
+*Eva 
+*Jamon 
+*Gefe 1 
+*Gefe 2 
+*Gefe 3 
+*Jamon forma de Mounstruo 
+*Mounstruos 
 
 6. Plan del proyecto 
 
