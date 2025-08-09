@@ -52,7 +52,7 @@ public class Jefe : MonoBehaviour
         }
     }
 
-    // Llamada desde la animación cuando termina el trigger "Muerte"
+    //Llamada desde la animación cuando termina el trigger "Muerte"
     private void Muerte()
     {
         Destroy(gameObject);

@@ -1,40 +1,7 @@
 fileFormatVersion: 2
-guid: 37b4d64659469b04e899b0d54c08b538
+guid: 0c9cd760155f85a458cb2efbdee83d62
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -6367560908665664636
-    second: Idle (32x32)_0
-  - first:
-      213: -6056987297122131021
-    second: Idle (32x32)_1
-  - first:
-      213: 8416797952724722639
-    second: Idle (32x32)_2
-  - first:
-      213: 4883129791460916795
-    second: Idle (32x32)_3
-  - first:
-      213: 4278371960119211202
-    second: Idle (32x32)_4
-  - first:
-      213: 8644832591467991550
-    second: Idle (32x32)_5
-  - first:
-      213: -7152759390613953277
-    second: Idle (32x32)_6
-  - first:
-      213: 6456874251884481089
-    second: Idle (32x32)_7
-  - first:
-      213: -2526832996998184344
-    second: Idle (32x32)_8
-  - first:
-      213: 4392827059107796345
-    second: Idle (32x32)_9
-  - first:
-      213: -1363835404106015672
-    second: Idle (32x32)_10
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,12 +34,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -81,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 0.5
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,30 +93,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle (32x32)_0
+      name: Ojo caminar_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +112,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17ba8914c7265d2468e18abcb17d57c1
-      internalID: 2134990164
+      spriteID: f9c98b7b9af9eb74a8b6109c2596a0d2
+      internalID: -670050742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_1
+      name: Ojo caminar_1
       rect:
         serializedVersion: 2
-        x: 32
+        x: 260
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09ef4de22b6c82c478cc67b22492a56d
-      internalID: 852038683
+      spriteID: dc582ea24e761684d86b26c7bd35a4f5
+      internalID: 1724084879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_2
+      name: Ojo caminar_2
       rect:
         serializedVersion: 2
-        x: 64
+        x: 520
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e013abccbcb79954fab046e3c7455663
-      internalID: -1673299070
+      spriteID: 48042bc0066b4dc4395b2dc56bdf0883
+      internalID: -647744419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_3
+      name: Ojo caminar_3
       rect:
         serializedVersion: 2
-        x: 96
+        x: 780
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 858ecd675b144db43baef5725354f418
-      internalID: 581795495
+      spriteID: eaa8d4f06e2d7b1459214b38b1ff0e18
+      internalID: 1226391354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_4
+      name: Ojo caminar_4
       rect:
         serializedVersion: 2
-        x: 128
+        x: 1040
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3ddfd3737f3eb4b9f37fcdfd30fa02
-      internalID: 1602630872
+      spriteID: 4a4f4f6103316b848a7e6694d312b08a
+      internalID: 2077751217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_5
+      name: Ojo caminar_5
       rect:
         serializedVersion: 2
-        x: 160
+        x: 1300
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +222,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37e7958077bcd2547a69d54804532e35
-      internalID: -1246378597
+      spriteID: 874eeb13e280fe146afd7c5bd3efb6b1
+      internalID: -2094287611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_6
+      name: Ojo caminar_6
       rect:
         serializedVersion: 2
-        x: 192
+        x: 1560
         y: 0
-        width: 32
-        height: 32
+        width: 260
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,96 +244,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff01e68539a78f04dbb6bd432bf8a15e
-      internalID: -1608068597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (32x32)_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 29573857a970354498f429f965bfa40c
-      internalID: -211430733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (32x32)_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eabc3a2cbd0a7964cbcb38e7df77206e
-      internalID: -1853725460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (32x32)_9
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b453f1e55176e7740a38351e1d3b5f32
-      internalID: -364754853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle (32x32)_10
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7dfaf81d6d12ef445a3c4b66f67920d4
-      internalID: 155052003
+      spriteID: ecc0199c6e937054393f0786118ed5af
+      internalID: -1157154698
       vertices: []
       indices: 
       edges: []
@@ -388,7 +254,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e09dc0f9a66d9fd4f92c17586e895032
+    spriteID: 3b72d55bafc4f0e44a73474b2a923fbd
     internalID: 0
     vertices: []
     indices: 
@@ -396,19 +262,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":260.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Idle (32x32)_0: 2134990164
-      Idle (32x32)_1: 852038683
-      Idle (32x32)_10: 155052003
-      Idle (32x32)_2: -1673299070
-      Idle (32x32)_3: 581795495
-      Idle (32x32)_4: 1602630872
-      Idle (32x32)_5: -1246378597
-      Idle (32x32)_6: -1608068597
-      Idle (32x32)_7: -211430733
-      Idle (32x32)_8: -1853725460
-      Idle (32x32)_9: -364754853
+      Ojo caminar_0: -670050742
+      Ojo caminar_1: 1724084879
+      Ojo caminar_2: -647744419
+      Ojo caminar_3: 1226391354
+      Ojo caminar_4: 2077751217
+      Ojo caminar_5: -2094287611
+      Ojo caminar_6: -1157154698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 76de6a65569812d499537f5bb52d31f9, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b648080a3f94c664f808cd749a28bd4d, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1ce8c1d1922a09846847a79845712b6e, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8e95cee1eda6369438d0c590b0818cdb, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: a4b9dd2610114ed40b6d86b987ce855e, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f75e62377df13154f9b89bed98d73a6a, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: d3ef6de7a92b7d94f9f3f22714c3c20a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bd51e932db8c4db46b73d4f88198cd39, type: 2}
+  m_UseUCBPForAssetBundles: 0

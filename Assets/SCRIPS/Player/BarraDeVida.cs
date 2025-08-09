@@ -7,7 +7,7 @@ public class BarraDeVida : MonoBehaviour
 
 
 
-private void Start()
+    private void Start()
 
     {
 
@@ -16,7 +16,7 @@ private void Start()
     }
 
 
-public void CambiarVidaMaxima(float vidaMaxima)
+    public void CambiarVidaMaxima(float vidaMaxima)
 
     {
 

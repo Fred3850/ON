@@ -19,10 +19,10 @@ public class Jefe_CaminarBehaviour : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
    {
        rb2D.linearVelocity = new Vector2(velocidadMovimiento, rb2D.linearVelocity.y) * animator.transform.right;
-   }
+    }
 
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
       rb2D.linearVelocity = new Vector2(0, rb2D.linearVelocity.y);
-   }
+    }
 }
