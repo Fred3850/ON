@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5bb9dd7a4edff0d45bc19757cf88409a
+guid: b0149fead8216674e99974b1bd0b88fd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fin stand (1)_0
+      name: Ataqueconcuhillo_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fbdee3c2193dc547b15a481a93f62fc
-      internalID: -1630938581
+      spriteID: f2eeb1954236c274c91e08be3d7787d4
+      internalID: 797651208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_1
+      name: Ataqueconcuhillo_1
       rect:
         serializedVersion: 2
         x: 256
@@ -134,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7079c038cae56ed4093bd155507b11f4
-      internalID: 779066074
+      spriteID: f2c82ca58a0434d44b1b722a56afeb4f
+      internalID: 481841242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_2
+      name: Ataqueconcuhillo_2
       rect:
         serializedVersion: 2
         x: 512
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb101a4631aa104fab23825fdf08144
-      internalID: 833338490
+      spriteID: d78803714d59053489a5f2b2dd9bf4aa
+      internalID: 213056928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_3
+      name: Ataqueconcuhillo_3
       rect:
         serializedVersion: 2
         x: 768
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8685a8869ee4a2f459e00b4ad1e89e9d
-      internalID: 1022801605
+      spriteID: 2078a2da78ade484987371c128012c98
+      internalID: -195046222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_4
+      name: Ataqueconcuhillo_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6e2c9c7bd07f44386dcf89af07f1bd
-      internalID: -1154611028
+      spriteID: f2ea628c32beb734fa37d8c7b6de84f0
+      internalID: 893152328
       vertices: []
       indices: 
       edges: []
@@ -210,7 +210,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f8abbbb24646bd84d80eb752bdb9d79e
+    spriteID: c9324289594bb024891747325c17fe07
     internalID: 0
     vertices: []
     indices: 
@@ -222,11 +222,11 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      fin stand (1)_0: -1630938581
-      fin stand (1)_1: 779066074
-      fin stand (1)_2: 833338490
-      fin stand (1)_3: 1022801605
-      fin stand (1)_4: -1154611028
+      Ataqueconcuhillo_0: 797651208
+      Ataqueconcuhillo_1: 481841242
+      Ataqueconcuhillo_2: 213056928
+      Ataqueconcuhillo_3: -195046222
+      Ataqueconcuhillo_4: 893152328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

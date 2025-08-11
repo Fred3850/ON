@@ -6,7 +6,7 @@ public class Bullet : MonoBehaviour
 {
     private new Rigidbody2D rigidbody;
 
-    public float speed = 3; // variable de velocidad
+    public float speed = 10; // variable de velocidad
 
     void Start()
     {

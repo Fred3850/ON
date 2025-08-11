@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5bb9dd7a4edff0d45bc19757cf88409a
+guid: b28f62df7e24eaf4090e0266949a8b51
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fin stand (1)_0
+      name: Ataque cuchillo_sinarma - invetido_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fbdee3c2193dc547b15a481a93f62fc
-      internalID: -1630938581
+      spriteID: 4977cdcd338be9c45a90cdc9b4437214
+      internalID: -1531815715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_1
+      name: Ataque cuchillo_sinarma - invetido_1
       rect:
         serializedVersion: 2
         x: 256
@@ -134,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7079c038cae56ed4093bd155507b11f4
-      internalID: 779066074
+      spriteID: bb8e37ec70fcdca4e8f5e3c4ae4b92d5
+      internalID: 1712172020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_2
+      name: Ataque cuchillo_sinarma - invetido_2
       rect:
         serializedVersion: 2
         x: 512
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb101a4631aa104fab23825fdf08144
-      internalID: 833338490
+      spriteID: 53b81d5ed0a6da54baee898c4a7815fc
+      internalID: 740924255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_3
+      name: Ataque cuchillo_sinarma - invetido_3
       rect:
         serializedVersion: 2
         x: 768
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8685a8869ee4a2f459e00b4ad1e89e9d
-      internalID: 1022801605
+      spriteID: f9413df5ab2eddb4e858bc5ed9a777fe
+      internalID: -870512318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_4
+      name: Ataque cuchillo_sinarma - invetido_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6e2c9c7bd07f44386dcf89af07f1bd
-      internalID: -1154611028
+      spriteID: 9379d82c959840b46b966879ef0cae41
+      internalID: 726507148
       vertices: []
       indices: 
       edges: []
@@ -210,7 +210,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f8abbbb24646bd84d80eb752bdb9d79e
+    spriteID: 0a820d48ba7abf94ab4688e4f037f985
     internalID: 0
     vertices: []
     indices: 
@@ -222,11 +222,11 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      fin stand (1)_0: -1630938581
-      fin stand (1)_1: 779066074
-      fin stand (1)_2: 833338490
-      fin stand (1)_3: 1022801605
-      fin stand (1)_4: -1154611028
+      Ataque cuchillo_sinarma - invetido_0: -1531815715
+      Ataque cuchillo_sinarma - invetido_1: 1712172020
+      Ataque cuchillo_sinarma - invetido_2: 740924255
+      Ataque cuchillo_sinarma - invetido_3: -870512318
+      Ataque cuchillo_sinarma - invetido_4: 726507148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

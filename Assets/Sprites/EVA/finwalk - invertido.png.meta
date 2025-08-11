@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5bb9dd7a4edff0d45bc19757cf88409a
+guid: 2735d731be62633418bdfae1de1d26f4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fin stand (1)_0
+      name: finwalk - invertido_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fbdee3c2193dc547b15a481a93f62fc
-      internalID: -1630938581
+      spriteID: 141b951e1a7608d4eb0833913c55af8c
+      internalID: -1721808871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_1
+      name: finwalk - invertido_1
       rect:
         serializedVersion: 2
         x: 256
@@ -134,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7079c038cae56ed4093bd155507b11f4
-      internalID: 779066074
+      spriteID: 164210f13caeef3408337cd7bfa08358
+      internalID: 1040982437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_2
+      name: finwalk - invertido_2
       rect:
         serializedVersion: 2
         x: 512
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb101a4631aa104fab23825fdf08144
-      internalID: 833338490
+      spriteID: a0068a3cf459ed443a5440c2e4374397
+      internalID: -837163124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_3
+      name: finwalk - invertido_3
       rect:
         serializedVersion: 2
         x: 768
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8685a8869ee4a2f459e00b4ad1e89e9d
-      internalID: 1022801605
+      spriteID: 9df9bbc01b5a7c049a91284909d2b2d7
+      internalID: -1501003079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fin stand (1)_4
+      name: finwalk - invertido_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6e2c9c7bd07f44386dcf89af07f1bd
-      internalID: -1154611028
+      spriteID: ebab08ce355d5f84291d521214a9fa50
+      internalID: 1480085702
       vertices: []
       indices: 
       edges: []
@@ -210,7 +210,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f8abbbb24646bd84d80eb752bdb9d79e
+    spriteID: c9c28a7daa1deb04387124d9860dd555
     internalID: 0
     vertices: []
     indices: 
@@ -222,11 +222,11 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      fin stand (1)_0: -1630938581
-      fin stand (1)_1: 779066074
-      fin stand (1)_2: 833338490
-      fin stand (1)_3: 1022801605
-      fin stand (1)_4: -1154611028
+      finwalk - invertido_0: -1721808871
+      finwalk - invertido_1: 1040982437
+      finwalk - invertido_2: -837163124
+      finwalk - invertido_3: -1501003079
+      finwalk - invertido_4: 1480085702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
